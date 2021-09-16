@@ -1,0 +1,3 @@
+main: com.github.doka.project.ProjectPlugin
+version: ${version}
+name: Project
